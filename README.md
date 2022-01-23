@@ -9,8 +9,8 @@ I live in Bethesda, Maryland, in the United States of America.
 Three of my favorite books are:
 
 - *Forecasting Principles and Practice* by Rob Hyndman & George Athanasopoulos
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *Deep Learning with Python* by Francois Chollet
+- *Advanced R* by Hadley Wickham
 
 ### Food
 
