@@ -1,15 +1,14 @@
-# Sean Kross
+# Emily Liu
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in Bethesda, Maryland, in the United States of America.
 
 ### Reading
 
 Three of my favorite books are:
 
-- *Mindstorms* by Seymour Papert
+- *Forecasting Principles and Practice* by Rob Hyndman & George Athanasopoulos
 - *Welcome to the Monkey House* by Kurt Vonnegut
 - *Persepolis* by Marjane Satrapi
 
@@ -17,10 +16,10 @@ Three of my favorite books are:
 
 Last night I dreamt about eating in these restaurants:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Pho
+2. Mooncakes
+3. Poutine
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter] (https://twitter.com/seankross).
+The best way to get in touch with me is [on Twitter] (https://twitter.com/emilythecomedi1).
